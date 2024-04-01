@@ -21,3 +21,21 @@ display: flex;
     .cabecalho-titulo{
         padding: 20px 0;
     }
+    .imagem-escola{
+        width: 20%;
+    }
+    .escola{
+    background-image: linear-gradient(blue, white);
+    color: white;
+    display: flex;
+    justify-content: center;
+    }
+    .escola-titulo{
+        padding: 24pix 0;
+    }
+    .escola-titulo-um{
+        padding: 24pix 0;
+    }
+    escola-div-conteudo{
+    width: 35%;
+    }
