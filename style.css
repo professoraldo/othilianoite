@@ -9,6 +9,20 @@
 .cabecalho-img{
     width: 20%;
     padding: 0 15px;
+    .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+body{
+
+}      
 }
 .div-cabecalho-logo{
 display: flex;
@@ -22,7 +36,7 @@ display: flex;
         padding: 20px 0;
     }
     .imagem-escola{
-        width: 20%;
+        width: 20%;fontt-family:poppins;sans-serif;
     }
     .escola{
     background-image: linear-gradient(blue, white);
@@ -38,4 +52,14 @@ display: flex;
     }
     escola-div-conteudo{
     width: 35%;
+    }
+    .estudante imagem{
+        width: 220pix;
+    }
+    .estudante-icone{
+        width: 24px;
+    }
+    .estudante-div{
+        text-align: center;
+        padding: 16pix 0;
     }
